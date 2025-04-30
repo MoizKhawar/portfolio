@@ -128,7 +128,7 @@ git commit -m "Initial commit"
 Set the default branch to `master` (or `main`):
 
 ```bash
-git branch -M master
+git branch -M main
 ```
 
 ---
@@ -138,7 +138,7 @@ git branch -M master
 Upload your project to the remote repository:
 
 ```bash
-git push -u origin master
+git push -u origin main
 ```
 
 ---

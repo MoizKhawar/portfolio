@@ -16,6 +16,8 @@
     - 🎓 Pursuing a Bachelor's degree in Computer Science from the Virtual University of Pakistan  
 * **Passion:**
     - Combining technical skills with teaching and fitness 💪  
+* **CV:** [Download CV](./img/mk_cv.pdf)
+* **Email:** [moiezmughal228@gmail.com](mailto:moiezmughal228@gmail.com)
 
 ## **My Social Media Links** 🌐
 
